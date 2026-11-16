@@ -40,7 +40,7 @@ Next.js · TypeScript · Tailwind CSS · Supabase · Vercel / Cloudflare · buil
 ## Contact
 
 - Instagram: [@thouaditya](https://instagram.com/thouaditya)
-- WhatsApp: [+916202447993]
+- WhatsApp: `<+916202447993>`
 - Email: `<adityaranjan.me@gmail.com>`
 
 <sub>Client repositories are private. Live sites and case studies are shared with each client's permission.</sub>
